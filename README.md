@@ -177,7 +177,7 @@ NutriPlan/
 
 ## 📞 Support
 
-For support, email support@nutriplan.com or create an issue in this repository.
+For support, email vinamrasharma5@gmail.com or create an issue in this repository.
 
 ## 🔮 Roadmap
 
